@@ -1,0 +1,36 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "72aadac5",
+   "metadata": {},
+   "source": [
+    "### clean and Transform the data"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "27d4a521",
+   "metadata": {},
+   "source": [
+    "### Data Analysis\n",
+    "1. Which product category contributes the highest revenue?\n",
+    "2. Does higher discount lead to higher sales availability?\n",
+    "3. Which platform (Amazon vs Flipkart) has wider product coverage?\n",
+    "4. Is there a correlation between cleaned price and customer ratings?\n",
+    "5. Which cities dominate online sales?\n",
+    "6. What is the impact of discount type on final price?\n",
+    "7. Which brands are available on both Amazon and Flipkart?\n",
+    "8. What business decisions can be made using this dataset?\n",
+    "9. What actionable insights can stakeholders take from this analysis?"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
